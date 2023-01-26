@@ -1,0 +1,7 @@
+.react-infinite-horizontal-scroll * {
+  box-sizing: border-box;
+}
+
+.react-infinite-horizontal-scroll ::-webkit-scrollbar {
+  display: none;
+}
