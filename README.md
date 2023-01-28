@@ -12,7 +12,7 @@ yarn add react-infinite-horizontal-scroll
 
 ## Usage
 
-_For more examples, please refer to the [examples](https://iminfinity.github.io/infinite-scroller)_
+_For more examples, please refer to the [examples](https://github.com/iminfinity/infinite-scroller/blob/master/src/examples.tsx)
 
 ```js
 <ScrollerContainer itemWidth={200} itemHeight={200} howManyOnView={3}>
